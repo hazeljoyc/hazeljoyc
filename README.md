@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hazeljoyc
-- 👀 I’m interested in computer science/engineering
-- 🌱 I’m currently learning Swift
-- 💞️ I’m looking to collaborate on mobile app projects
+- 👀 I’m interested in Computer Engineering
+- 🌱 I’m currently learning C++
 - 📫 How to reach me: hazeljgchavez@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I don't know how to swim!
