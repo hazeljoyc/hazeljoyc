@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Hazel's+Profile+!+｡𖦹°‧⭑.ᐟ&color=b57edc)](https://git.io/typing-svg)
----
+--
 
 ### ⭐ About Me
 
@@ -8,7 +8,7 @@ Hi! I’m Hazel, a first-year Computer Engineering major at De Anza College. I�
 Creating a presentable profile is my first step. Come follow along on my journey ✨
 
 
----
+--
 ### 👩‍💻 What am I currently learning?
 
 ![Python](https://img.shields.io/badge/python-4F518C?style=for-the-badge&logo=python&logoColor=ffffff)
