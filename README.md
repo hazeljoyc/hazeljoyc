@@ -8,7 +8,7 @@ Hi! I’m Hazel, a first-year Computer Engineering major at De Anza College. I�
 Creating a presentable profile is my first step. Come follow along on my journey ✨
 
 
---
+---
 ### 👩‍💻 What am I currently learning?
 
 ![Python](https://img.shields.io/badge/python-4F518C?style=for-the-badge&logo=python&logoColor=ffffff)
