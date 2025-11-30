@@ -18,13 +18,15 @@ Creating a presentable profile is my first step. Come follow along on my journey
 ---
 
 ### 🌸 Side Quests
-Small adventures I’m building outside of school
+Small adventures I’m building outside of school ☆⌒(>ᴗ<)
 
 - 🎥 **[TwoNutJobs](https://www.instagram.com/twonutjobs/)** — chaotic tech & business content with a friend  
 - 🍋 **[ByteOfMango](https://www.instagram.com/byteofmango/)** — my creative tech journey + aesthetic builds  
 
 ---
 ### 🎧 Current Favorite Song
+A little song that helps me balance my everyday activities ♡( ˶˘ ³˘)🎶
+
 <table>
   <tr>
     <td>
