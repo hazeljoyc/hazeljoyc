@@ -3,7 +3,7 @@
 
 ### ⭐ About Me
 
-Hi! I’m Hazel, a first-year Computer Engineering major at De Anza College. I’m passionate about hardware–software integration and creative tech. I love taking on hands-on projects, collaborating in hackathons, and learning new tools that push me to grow as an engineer.
+Hi! I’m Hazel, a first-year Computer Engineering major at De Anza College. I’m passionate about hardware–software integration and creative tech. I love taking on hands-on projects, collaborating, and learning new tools that push me to grow as an engineer.
 
 Creating a presentable profile is my first step. Come follow along on my journey ✨
 
