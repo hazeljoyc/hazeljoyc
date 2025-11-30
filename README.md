@@ -28,7 +28,7 @@ Small adventures I’m building outside of school
 <table>
   <tr>
     <td>
-      <img src="https://i.scdn.co/image/ab67616d0000b2732f6fe7ae34ea002b6ce3bbd0" width="150px" style="border-radius: 12px;" />
+      <img src="https://i.scdn.co/image/ab67616d00001e020c4bc0803f73583c201d312d" width="150px" style="border-radius: 12px;" />
     </td>
     <td style="vertical-align: middle; padding-left: 20px;">
       <h3>Slip</h3>
