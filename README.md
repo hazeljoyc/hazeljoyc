@@ -24,6 +24,20 @@ Small adventures I’m building outside of school
 - 🍋 **[ByteOfMango](https://www.instagram.com/byteofmango/)** — my creative tech journey + aesthetic builds  
 
 ---
+### 🎧 Current Favorite Song
+<table>
+  <tr>
+    <td>
+      <img src="https://i.scdn.co/image/ab67616d0000b2732f6fe7ae34ea002b6ce3bbd0" width="150px" style="border-radius: 12px;" />
+    </td>
+    <td style="vertical-align: middle; padding-left: 20px;">
+      <h3>Slip</h3>
+      <p>Not For Radio</p>
+    </td>
+  </tr>
+</table>
+
+---
 ### ✉️ Contact Me
 <p>
   <a href="https://www.linkedin.com/in/hazeljoychavez">
