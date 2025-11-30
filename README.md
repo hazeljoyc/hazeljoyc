@@ -9,7 +9,7 @@ Creating a presentable profile is my first step. Come follow along on my journey
 
 
 ---
-### 👩‍💻 What am I currently learning?
+### 👩‍💻 What am I currently working with?
 
 ![Python](https://img.shields.io/badge/python-4F518C?style=for-the-badge&logo=python&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/c++-907AD6.svg?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff)
